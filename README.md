@@ -1,2 +1,2 @@
 # monolithProjectKubernetes
-monolith Project Kubernetes
+monolith Project K8s
