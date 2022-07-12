@@ -19,3 +19,4 @@ spec:
         image: tmmunyai66737/udagram-reverseproxy:v1.01
         ports:
         - containerPort: 8080
+        imagePullPolicy: Always        
